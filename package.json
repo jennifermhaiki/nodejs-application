@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://18.204.205.159:8081/repository/acada-proj/"
+    "registry": "http://172.31.3.67:8000/repository/acada.proj-release/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
